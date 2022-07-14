@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mikael, swedish law student and hobby programmer.
+- 👋 Hi, my name is Mikael I am a swedish law student and hobby programmer.
 - 👀 I’m interested in learning, reading and of course all kinds of programming
 - 🌱 I’m currently learning web development by following along with 100devs and
 - also algorithms and data structures. For the most part in Javascript but looking
