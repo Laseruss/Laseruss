@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Micke I am a law student and for fun programmer.
+- 👋 Hi!
 
 - 📫 loden.micke@gmail.com
 
